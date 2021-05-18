@@ -1,5 +1,5 @@
 # Hi, I’m Shubhadra 👋🏽 👩🏽‍💻
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Web Designing and Developing.
 - 🌱 I’m currently pursuing <b>B.Tech</b> in Computer Engineering from <b>Savitribai Phule Pune University</b>.
 - 📫 How to reach me 👇 ...
 
